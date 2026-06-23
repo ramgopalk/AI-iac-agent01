@@ -1,0 +1,21 @@
+groq==0.24.0
+
+azure-identity==1.23.0
+azure-mgmt-resource==24.0.0
+azure-mgmt-containerregistry==13.0.0
+azure-mgmt-containerservice==35.0.0
+
+python-dotenv==1.1.0
+
+requests==2.32.3
+rich==14.0.0
+
+# rich
+# python-dotenv
+# groq
+# azure-identity
+# azure-mgmt-resource
+# azure-mgmt-containerregistry
+# azure-mgmt-containerservice
+
+# pip install -r requirements.txt
